@@ -5,7 +5,7 @@
 ![GitHub issues by-label "good first issue"](https://img.shields.io/github/issues/WebGoat/WebGoat/good%20first%20issue.svg)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
-This document describes how you can contribute to WebGoat. Please read it carefully.
+This document describes how you can contribute to WebGoat. Please read it carefully. 
 
 **Table of Contents**
 
